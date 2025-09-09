@@ -27,7 +27,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Hoang Phuc 👋 Software Engineer - Mobile Developer
+                <b><a target="_blank" href="https://alsiam.com">Hoang Phuc
 </a></b>
         </samp>
 </h3>
@@ -37,7 +37,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Software Engineer - Mobile Developer</b> 」
     <br>
     <br>
   </samp>
@@ -64,4 +64,5 @@
   </a> 
 </p>
 <br />
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
