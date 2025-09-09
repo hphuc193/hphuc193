@@ -26,8 +26,9 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        <samp>&gt; Hi There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Hoang Phuc 👋 Software Engineer - Mobile Developer
+</a></b>
         </samp>
 </h3>
 
