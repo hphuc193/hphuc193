@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Im Hoang Phuc 👋
 
 <!--
 **hphuc193/hphuc193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
