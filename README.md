@@ -1,4 +1,4 @@
-## Hi Im Hoang Phuc 👋
+## Hi Im Hoang Phuc 👋 Software Engineer - Mobile Developer
 
 <!--
 **hphuc193/hphuc193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
