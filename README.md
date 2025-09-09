@@ -24,13 +24,13 @@
 
 
 <p align="center"> 
-  <samp>
+<!--   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a Software Engineer - Mobile Developer</b> 」
     <br>
     <br>
-  </samp>
+  </samp> -->
 </p>
 
 <p align="center">
