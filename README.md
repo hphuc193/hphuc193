@@ -1,5 +1,3 @@
-## Hi Im Hoang Phuc 👋 Software Engineer - Mobile Developer
-
 <!--
 **hphuc193/hphuc193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +16,9 @@
  -->
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hi There!👋, I am
+        <samp>&gt;✨ Hi There!👋, I am
                 <b><a target="_blank" href="https://alsiam.com">Hoang Phuc
-</a></b>
+</a></b> ✨
         </samp>
 </h3>
 
