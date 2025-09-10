@@ -1,7 +1,10 @@
+<!-- WELLCOME TO HOANGPHUC WORLD -->
+
+<!-- BANNER IMG -->
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="900"  />
 </div>
-
+<!-- INTRO -->
 <h1 align="center"✨ >
         <samp>&gt; Hi There!👋, I am
                 <b><a target="_blank" href="">Hoang Phuc
@@ -14,7 +17,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71B5E&width=435&lines=Software+Engineer+|+Mobile+Engineer" alt="Typing SVG" />
   </a>
 </p>
-
+<!-- CHART -->
 <table align="center" style="width:100;">
   <tr>
     <td align="center" style="width:50;">
@@ -25,7 +28,7 @@
     </td>
   </tr>
 </table>
-
+<!-- CONTACT -->
 <h2 align="center"> Connect with Me </h2>
 
 <p align="center">
@@ -46,11 +49,11 @@
   </a> 
 </p>
 <br />
-
+<!-- SNAKE ANIMATION -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/hphuc193/hphuc193/output/snake.svg" alt="Snake animation" />
 </div>
-
+<!-- TECHNOLOGIES -->
 <h2 align="center"> Technologies </h2>
 
 ### Programming Languages:
@@ -68,7 +71,7 @@
         <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="30" />
       </td>
       <td style="border:2 solid #ccc; padding:10; border-radius:8;">
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" />
       </td>
       <td style="border:2 solid #ccc; padding:10; border-radius:8;">
         <img src="https://cdn.simpleicons.org/python/3776AB" width="30" />
@@ -142,13 +145,13 @@
   <table>
     <tr>
       <td style="border:2 solid #ccc; padding:10; border-radius:8;">
-        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" />
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" />
       </td>
       <td style="border:2 solid #ccc; padding:10; border-radius:8;">
-        <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" />
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" />
       </td>
       <td style="border:2 solid #ccc; padding:10; border-radius:8;">
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" />
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" />
       </td>
     </tr>
   </table>
@@ -207,4 +210,5 @@
 </div>
 </p>
 
+<!-- 3D CONTRIB -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
