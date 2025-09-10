@@ -15,12 +15,12 @@
   </a>
 </p>
 
-<table align="center" style="width:100%;">
+<table align="center" style="width:100;">
   <tr>
-    <td align="center" style="width:50%;">
+    <td align="center" style="width:50;">
       <img src="https://streak-stats.demolab.com?user=hphuc193&theme=dark&hide_border=true" alt="GitHub Streak" style="width:100%;"/>
     </td>
-    <td align="center" style="width:50%;">
+    <td align="center" style="width:50;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hphuc193&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="width:100%;"/>
     </td>
   </tr>
@@ -58,23 +58,23 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/dart/0175C2" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/dart/0175C2" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/swift/FA7343" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/swift/FA7343" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="30" />
       </td>
-        <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/c++/f3f6f4" width="40" />
+        <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/c++/f3f6f4" width="30" />
       </td>
     </tr>
   </table>
@@ -86,20 +86,20 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/flutter/02569B" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/swift/FA7343" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/swift/FA7343" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/cocoapods/39477F" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/cocoapods/39477F" width="30" />
       </td>
     </tr>
   </table>
@@ -112,23 +112,23 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/express/ea9999" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/express/ea9999" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/graphql/E10098" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/graphql/E10098" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/npm/1cce00" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/npm/1cce00" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/.net/cfe2f3" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/.net/cfe2f3" width="30" />
       </td>
     </tr>
   </table>
@@ -141,13 +141,13 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
         <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
         <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
         <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" />
       </td>
     </tr>
@@ -161,17 +161,17 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="30" />
       </td>
     </tr>
   </table>
@@ -184,23 +184,23 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/git/F05032" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/git/F05032" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/xcode/147EFB" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/xcode/147EFB" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="30" />
       </td>
-      <td style="border:2px solid #ccc; padding:10px; border-radius:8px;">
-        <img src="https://cdn.simpleicons.org/googlecolab/f1c232" width="40" />
+      <td style="border:2 solid #ccc; padding:10; border-radius:8;">
+        <img src="https://cdn.simpleicons.org/googlecolab/f1c232" width="30" />
       </td>
     </tr>
   </table>
