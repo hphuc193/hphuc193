@@ -5,11 +5,11 @@
   <img height="200" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="900"  />
 </div>
 <!-- INTRO -->
-<h1 align="center"✨ >
+<h1 align="center"  >
         <samp>&gt; Hi There!👋, I am
                 <b><a target="_blank" href="">Hoang Phuc
 </a></b>
-        </samp>
+        </samp> <
 </h1>
 
 <p align="center">
