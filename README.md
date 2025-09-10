@@ -43,6 +43,10 @@
 </p>
 <br />
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/hphuc193/hphuc193/output/snake.svg" alt="Snake animation" />
+</div>
+
 <h2 align="center"> Technologies </h2>
 
 ### Programming Languages:
