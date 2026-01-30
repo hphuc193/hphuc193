@@ -23,9 +23,9 @@
     <!-- <td align="center" style="width:50;">
       <img src="https://streak-stats.demolab.com?user=hphuc193&theme=dark&hide_border=true" alt="GitHub Streak" style="width:100%;"/>
     </td> -->
-    <td align="center" style="width:50;">
+    <!-- <td align="center" style="width:50;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hphuc193&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="width:100%;"/>
-    </td>
+    </td> -->
   </tr>
 </table>
 <!-- CONTACT -->
