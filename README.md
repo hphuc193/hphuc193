@@ -6,7 +6,7 @@
 </div>
 <!-- INTRO -->
 <h1 align="center"  >
-        <samp>&gt; Hi👋, I am
+        <samp>&gt; Hi, I am
                 <b><a target="_blank" href="">Hoang Phuc
 </a></b>
         </samp> <
