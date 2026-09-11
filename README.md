@@ -49,10 +49,8 @@
   </a> 
 </p>
 <br />
-<!-- SNAKE ANIMATION -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/hphuc193/hphuc193/output/snake.svg" alt="Snake animation" />
-</div>
+<!-- 3D CONTRIB -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!-- TECHNOLOGIES -->
 <h2 align="center"> Technologies </h2>
 
@@ -210,5 +208,7 @@
 </div>
 </p>
 
-<!-- 3D CONTRIB -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/hphuc193/hphuc193/output/snake.svg" alt="Snake animation" />
+</div>
